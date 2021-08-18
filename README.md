@@ -2,6 +2,6 @@
 ## Проект выполнил: Агеев Алексей
 
 ### Технологии
--html
--css
--javascript
+- html
+- css
+- javascript
